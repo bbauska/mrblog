@@ -1,0 +1,2 @@
+# mrblog
+mrblog.bauska.org
